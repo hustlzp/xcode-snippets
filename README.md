@@ -4,5 +4,5 @@ Snippets for xcode.
 
 ```sh
 cd ~/Library/Developer/Xcode/UserData/CodeSnippets
-git clone git@github.com:user/my-project.git .
+git clone https://github.com/hustlzp/xcode-snippets.git .
 ```
